@@ -1,0 +1,33 @@
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.Form1.resources
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.GenerateResource.cache
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfo.cs
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.exe
+C:\Users\carol\source\repos\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.deps.json
+C:\Users\carol\source\repos\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.runtimeconfig.json
+C:\Users\carol\source\repos\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.dll
+C:\Users\carol\source\repos\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.pdb
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.dll
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\refint\Checkers.dll
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.pdb
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.genruntimeconfig.cache
+C:\Users\carol\source\repos\Checkers\Checkers\obj\Debug\net7.0-windows\ref\Checkers.dll
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.exe
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.deps.json
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.runtimeconfig.json
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.dll
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\bin\Debug\net7.0-windows\Checkers.pdb
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.Form1.resources
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.GenerateResource.cache
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfoInputs.cache
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.AssemblyInfo.cs
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.dll
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\refint\Checkers.dll
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.pdb
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\Checkers.genruntimeconfig.cache
+C:\Users\carol\Desktop\Computer Programming\2- Programming concepts II\Checkers\Checkers\obj\Debug\net7.0-windows\ref\Checkers.dll
